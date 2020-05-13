@@ -4,9 +4,7 @@ description: แสดงจุดลงเวลา iBeacon ทั้งหม�
 
 # iBeacon
 
-{% embed url="https://youtu.be/rSWqrN\_oH9s" %}
-
-
+{% embed url="https://youtu.be/rSWqrN\_oH9s" caption="" %}
 
 ## วิธีการสร้างจุดลงเวลา iBeacon
 

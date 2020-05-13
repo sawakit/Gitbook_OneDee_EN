@@ -4,9 +4,7 @@ description: รายการจุดลงเวลาด้วย QR Code �
 
 # QR Code
 
-{% embed url="https://youtu.be/zPxTULd5BKY" %}
-
-
+{% embed url="https://youtu.be/zPxTULd5BKY" caption="" %}
 
 ## **วิธีการสร้างจุดลงเวลาแบบ** **QR Code**
 

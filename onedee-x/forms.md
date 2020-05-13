@@ -6,9 +6,7 @@ description: >-
 
 # การสร้างแบบฟอร์มต่างๆ \(Forms\)
 
-{% embed url="https://youtu.be/-KFeOw3PN\_k" %}
-
-
+{% embed url="https://youtu.be/-KFeOw3PN\_k" caption="" %}
 
 * เมนู **Forms** เป็นเมนูสำหรับสร้างแบบฟอร์มต่างๆ เช่น ฟอร์มวันลา ฟอร์มเบิกค่าใช้จ่ายต่างๆ เป็นต้น
 
@@ -20,7 +18,7 @@ description: >-
 
 ![](../.gitbook/assets/create-form.png)
 
-* คลิกไอคอน ![](../.gitbook/assets/group-53.1.png) ****เพื่อสร้างรูปแบบของแบบฟอร์ม
+* คลิกไอคอน ![](../.gitbook/assets/group-53.1.png) _\*\*_เพื่อสร้างรูปแบบของแบบฟอร์ม
 * เลือก **ประเภทของข้อมูล**
 * คลิก **Save**
 

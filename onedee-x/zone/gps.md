@@ -4,9 +4,7 @@ description: จุดลงเวลาตามพิกัด GPS ที่�
 
 # GPS
 
-{% embed url="https://youtu.be/SMwaOVt185c" %}
-
-
+{% embed url="https://youtu.be/SMwaOVt185c" caption="" %}
 
 ## วิธีการสร้างจุดลงเวลา GPS
 

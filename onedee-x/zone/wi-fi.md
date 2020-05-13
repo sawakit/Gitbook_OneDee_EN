@@ -4,9 +4,7 @@ description: รายการจุดลงเวลาด้วย Wi-Fi ท
 
 # Wi-Fi
 
-{% embed url="https://youtu.be/RHR0kvEj\_2Q" %}
-
-
+{% embed url="https://youtu.be/RHR0kvEj\_2Q" caption="" %}
 
 ## วิธีการสร้างจุดลงเวลา Wi-Fi
 
@@ -26,7 +24,7 @@ description: รายการจุดลงเวลาด้วย Wi-Fi ท
 * คลิก **Create**
 
 {% hint style="info" %}
-**Mac Address**  สามารถหาได้จาก **Router Wi-Fi** หรือ โหลดแอพพลิเคชั่น **WiFi Analyzer**
+**Mac Address** สามารถหาได้จาก **Router Wi-Fi** หรือ โหลดแอพพลิเคชั่น **WiFi Analyzer**
 {% endhint %}
 
 ![](../../.gitbook/assets/create-wifi.png)

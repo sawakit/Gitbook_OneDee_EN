@@ -1,6 +1,6 @@
 # การสร้างโควต้าวันลา \(Leave quota\)
 
-![](../.gitbook/assets/screenshot_4%20%282%29.png)
+![](../.gitbook/assets/screenshot_4-2.png)
 
 * คลิกเมนู **Team**
 * เลือก **Team** ที่ต้องการ
@@ -21,6 +21,4 @@
 ![](../.gitbook/assets/screenshot_10.png)
 
 หากบริษัทมีรูปแบบโควต้าการลาแตกต่างกันตามอายุงาน สามารถเลือกตั้งค่าได้ที่ **Duration Of Employment**
-
-
 

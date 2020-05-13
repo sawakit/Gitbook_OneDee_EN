@@ -1,30 +1,23 @@
-# Add Clock \(ลงเวลาแทน\)
+# How to Add Clock
 
-## ลงเวลาแทนพนักงานได้ตอนไหน
+## Step to Add Clock
 
-#### Add Clock หรือ การลงเวลาแทน สามารถทำได้ 2 กรณี ดังนี้
-
-* พนักงานลืมโทรศัพท์มือถือ
-* พนักงานลืมลงเวลาเข้า-ออกงาน หรือลืมพักเบรก-ออกเบรก
-
-## ขั้นตอนการ Add Clock
-
-* ไปยังเมนู **Report**
-* คลิก **Timeline**
+* Go to **Reports Menu**
+* Click **Timeline**
 
 ![](../../../.gitbook/assets/screenshot_4.png)
 
-* คลิกปุ่ม **Add Clock**
+* Click **Add Clock**
 
 ![](../../../.gitbook/assets/screenshot_5.png)
 
-* เลือก **Clock Type** \(ประเภทการลงเวลา\)
-* เลือก **Zone** \(จุดลงเวลา\)
-* เลือก **Date** \(วันที่\)
-* เลือก **Time** \(เวลา\)
-* กรอก **Reason** \(เหตุผล\)
-* เลือก **Employee** \(พนักงาน\) 
-* เสร็จแล้ว คลิกปุ่ม **Done** 
+* Select **Clock Type**
+* Select **Zone**
+* Select **Date** 
+* Select **Time** 
+* Enter **Reason** 
+* Select **Employee** 
+* Click **Done** 
 
 ![](../../../.gitbook/assets/screenshot_6.png)
 

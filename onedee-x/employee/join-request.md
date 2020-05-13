@@ -1,16 +1,12 @@
 ---
-description: รายงานคำขอเข้าร่วมบริษัทของพนักงาน (โดยลงทะเบียนผ่าน App บนมือถือ)
+description: View the list of requests to join for an employee.
 ---
 
 # Join Request
 
-{% embed url="https://youtu.be/VptICEDbDJQ" %}
+{% embed url="https://youtu.be/VptICEDbDJQ" caption="" %}
 
-
-
-เมื่อพนักงานส่งคำขอร่วมบริษัท ผู้ดูแลระบบหรือแอดมินสามารถ **อนุมัติคำขอ** หรือ **ปฏิเสธคำขอ**เข้าร่วมบริษัทได้
+When Employee sent join company request to admin for accept, admin can accept or reject that request.
 
 ![](../../.gitbook/assets/05.svg)
-
-
 

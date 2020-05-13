@@ -13,7 +13,7 @@ description: >-
 OneDee Station ใช้งานได้เฉพาะ iPad เท่านั้น!
 {% endhint %}
 
-![](../.gitbook/assets/01-sign-in%20%281%29.jpg)
+![](../.gitbook/assets/01-sign-in-1.jpg)
 
 * แตะ **Sign Up** เพื่อสมัครใช้งาน **OneDee Station**
 

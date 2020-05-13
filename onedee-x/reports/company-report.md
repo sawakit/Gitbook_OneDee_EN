@@ -1,15 +1,15 @@
 # Timesheet Report
 
-{% embed url="https://youtu.be/19OscHtqB3M" %}
+{% embed url="https://youtu.be/19OscHtqB3M" caption="" %}
 
 ## การเรียกดูรายงาน Timesheet Report
 
 * ไปยังเมนู **Report**
 * คลิก Timesheet **Report**
 
-![](../../.gitbook/assets/untitled-2%20%281%29.png)
+![](../../.gitbook/assets/untitled-2-1.png)
 
-![](../../.gitbook/assets/screenshot_2%20%282%29.png)
+![](../../.gitbook/assets/screenshot_2-2.png)
 
 * คลิก ไอคอน **"..."** แล้วเลือก **View** หรือ คลิก **ชื่อ Template**
 * คลิก **Choose Column**
@@ -34,7 +34,7 @@
 
 * คลิก **Save As**
 
-![](../../.gitbook/assets/untitled-6%20%281%29.png)
+![](../../.gitbook/assets/untitled-6-1.png)
 
 * กรอก **ชื่อรายงาน**
 * คลิก **Save**
@@ -47,7 +47,7 @@
 สามารถ **Export** ได้ทั้งไฟล์ CSV. Excel และ Text file
 {% endhint %}
 
-*  คลิก **Export**
+* คลิก **Export**
 
 ![](../../.gitbook/assets/app.onedee-25-1.png)
 

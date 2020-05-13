@@ -1,12 +1,20 @@
 ---
 description: >-
-  เมนู Employee มีฟังชันก์ในการทำงาน อยู่ 5 ฟังชันก์ คือ All Employee, Join
-  Request, Deactivated, Rejected และ Invitation
+  Employee menu has 5 functions are All Employee, Join Request, Deactivated,
+  Rejected and Invitation
 ---
 
-# การจัดการพนักงานในระบบ \(Employee\)
+# How to Manage Employee
 
-{% embed url="https://youtu.be/VptICEDbDJQ" %}
+{% page-ref page="all-employee.md" %}
+
+{% page-ref page="join-request.md" %}
+
+{% page-ref page="deactivated.md" %}
+
+{% page-ref page="rejected.md" %}
+
+{% page-ref page="invitation.md" %}
 
 
 

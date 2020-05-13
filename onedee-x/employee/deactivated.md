@@ -1,14 +1,12 @@
 ---
-description: รายงานพนักงานที่ถูกระงับการใช้งาน
+description: View a list of employees that have been deactivated.
 ---
 
 # Deactivated
 
-{% embed url="https://youtu.be/VptICEDbDJQ" %}
+{% embed url="https://youtu.be/VptICEDbDJQ" caption="" %}
 
-
-
-เมนู **Deactivated** จะแสดงรายชื่อพนักงานที่ถูกระงับการใช้งานเข้า ซึ่งผู้ดูแลระบบหรือแอดมินสามารถกำหนดวันที่ที่พนักงานได้ทำการลาออกจากบริษัท
+**Deactivated** will display employees that have been deactivated, admin can Reactivate that employee.
 
 ![](../../.gitbook/assets/07-1.png)
 

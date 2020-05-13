@@ -1,63 +1,65 @@
-# การสร้างบริษัท
+# How to Create new Company
 
-## วิธีการสร้าง Profile \(สำหรับผู้ดูแลระบบ\) <a id="1"></a>
+## Set up Profile <a id="1"></a>
 
-หลังจากทำการเข้าสู่ระบบ จะไปยังหน้า **Set up Profile**
+After Login will redirect to **Set up Profile** page
 
-* **เพิ่มรูปประจำตัว**
-* กรอก **ชื่อจริง, นามสกุล** ตามลำดับ
-* คลิก **Continue**
+* **Insert image profile**
+* Enter **Name and Last name**
+* Click **Continue**
 
 ![](../.gitbook/assets/app-dev.onedee.ai_en_setup_-laptop-with-mdpi-screen.png)
 
-หลังจาก **Set up Profile** แล้ว จะเป็น **การสร้างบริษัท**
-
-* เลือก **Create New Company**
+* Click **Create New Company**
 
 ![](../.gitbook/assets/app-dev.onedee.ai_en_setup_connect-to-company-laptop-with-mdpi-screen-1.png)
 
-## วิธีการสร้างบริษัท <a id="2"></a>
+## How to Create Company <a id="2"></a>
 
-* **เพิ่มรูปบริษัท**
-* กรอก **ชื่อบริษัท, เบอร์โทรศัพท์, ที่อยู่** ตามลำดับ
-* เลือก **เขตเวลา**
-* คลิก **Create New Company**
+**Set up your Company**
 
-![](../.gitbook/assets/app-dev.onedee.ai_en_setup_connect-to-company-laptop-with-mdpi-screen.png)
+* **Insert logo company**
+* Enter **Company Name, Contact no.**
+* Select **Timezone**
+* Click **Create New Company**
 
-* ระบบจะแสดงหน้า **Passcode** หลังจากสร้างบริษัท
-* คลิก **Continue**
+![](../.gitbook/assets/02_set_up_your_company.png)
+
+* **Passcode** will display after created company
+* Click **Continue**
 
 ![](../.gitbook/assets/app-dev.onedee.ai_en_setup_create-company_3-laptop-with-mdpi-screen.png)
 
-* แสดงหน้ากรอก**รายละเอียดเพิ่มเติม**
-* เลือกประเภทธุรกิจของคุณ พร้อมกรอกข้อมูลต่างๆ ตามลำดับ
-* คลิก **Continue**
+**About your Company page**
 
-![](../.gitbook/assets/app-dev.onedee.ai_en_setup_create-company_3-laptop-with-mdpi-screen-1.png)
+* Select **Business Type**
+* Enter **your business details**
+* Enter **Office Address**
+* Click **Continue**
 
-* ระบบจะแสดงหน้า **Setup Payroll**
-* เลือกข้อมูลธนาคารที่บริษัทคุณออกเงินเดือน
-* คลิก **Continue**
+![](../.gitbook/assets/03_about_your_company.png)
+
+**Set up Payroll page**
+
+* Select **Payroll form**
+* Click **Continue**
 
 ![](../.gitbook/assets/app-dev.onedee.ai_en_setup_create-company_3-laptop-with-mdpi-screen-2.png)
 
+Create your first QR Code clocking zone
 
-
-* ระบบจะแสดงหน้า สร้างจุดลงเวลา QR Code ของบริษัท
-* กรอก **ชื่อจุดลงเวลา** ที่ต้องการ
-* คลิก **Continue**
+* Enter **Name**
+* Click **Continue**
 
 {% hint style="info" %}
-**ภายหลัง** ใช้ในกรณีที่ต้องการสร้างภายหลัง
+**I'll do this later** can create later
 {% endhint %}
 
 ![](../.gitbook/assets/app-dev.onedee.ai_en_setup_create-company_3-laptop-with-mdpi-screen-3.png)
 
-* แสดงหน้า **สำเร็จ**
-* คลิก  **Continue**
+**Done!**
+
+* Click  **Continue**
 
 ![](../.gitbook/assets/app-dev.onedee.ai_en_setup_create-company_3-laptop-with-mdpi-screen-4.png)
-
-
 

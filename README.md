@@ -1,6 +1,6 @@
 # Welcome to OneDee.ai
 
-คำถามที่คุณอยากรู้
+Questions?
 
 {% page-ref page="faq/what-is-onedee.md" %}
 

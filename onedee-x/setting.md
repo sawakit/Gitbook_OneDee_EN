@@ -1,37 +1,35 @@
-# การขอเข้าร่วมบริษัท
+# How to Join Company
 
-## วิธีการสร้าง Profile \(สำหรับผู้ดูแลระบบ\)
+## Set up Profile <a id="1"></a>
 
-หลังจากทำการเข้าสู่ระบบ จะไปยังหน้า **Set up Profile**
+After Login will redirect to **Set up Profile** page
 
-* **เพิ่มรูปประจำตัว**
-* กรอก **ชื่อจริง, นามสกุล** ตามลำดับ
-* คลิก **Continue**
+* **Insert image profile**
+* Enter **Name and Last name**
+* Click **Continue**
 
-![](../.gitbook/assets/02%20%281%29.png)
+![](../.gitbook/assets/02-1.png)
 
-หลังจาก **Set up Profile** แล้ว จะเป็น **การขอเข้าร่วมบริษัท**
+## How to Join Company
 
-## วิธีการขอเข้าร่วมบริษัท <a id="join-company"></a>
-
-* เลือก **Join Company**
+* Click **Join Company**
 
 ![](../.gitbook/assets/01.png)
 
-* กรอก **Passcode** ของบริษัทที่ต้องการจะเข้าร่วม
-* คลิก **Continue**
+* Enter **Passcode**
+* Click **Continue**
 
 ![](../.gitbook/assets/05.png)
 
-* คลิกปุ่ม **Connect to Company** เพื่อขอเข้าร่วมบริษัทดังกล่าว
+* Click **Connect to Company** for join company
 
 ![](../.gitbook/assets/05-1.png)
 
-เสร็จสิ้นการขอเข้าร่วมบริษัท
+**Join Request sent!**
 
 ![](../.gitbook/assets/05-2.png)
 
 {% hint style="info" %}
-หลังจากทำการขอเข้าร่วมบริษัทแล้ว ให้ทำการแจ้ง Admin ของบริษัทเพื่อทำการอนุมัติรายการ
+After join request sent you can tell Admin approve your request 
 {% endhint %}
 

@@ -1,12 +1,34 @@
-# OneDee.ai ทำอะไรได้บ้าง
+# OneDee.ai can do?
 
-* ระบบลงเวลาผ่าน Application บนมือถือ
-* ระบบรายงานผลอัตโนมัติ ตรวจสอบพนักงานได้ทันที รวบรวมข้อมูลจากทุกสาขาไว้ในที่เดียว
-*  สรุปการลงเวลาเข้า-ออก จัดการเงินเดือน ได้ภายใน 10 นาที
-*  ช่วยวิเคราะห์ข้อมูล ตอบคำถาม และเทรนพนักงานได้ด้วยระบบ AI
-* สร้างห้องแชท พูดคุย ติดตามงาน ส่งข้อความแบบแยกกรุ๊ปทีมหรือส่วนตัวได้ 
-* จัดกะการทำงานได้ง่ายดาย พร้อมแสดงตารางให้พนักงานเช็คได้บนมือถือ
-* ขอลาผ่านมือถือ กำหนดโควต้าการลา สร้างปฏิทินบริษัท และสร้างเงื่อนไขการอนุมัติได้ไม่จำกัด
-* สร้าง Form ขออนุมัติต่างๆ ได้หลากหลายรูปแบบ
-* OneDee Face Detection สถานีลงเวลา เข้า-ออก ของพนักงาน ผ่านระบบยืนยันตัวตนด้วยการสแกนใบหน้า
+* **Time & Attendance**
+
+  Easier for time attendance by using OneDee Chatbot for clocking in & out with iBeacon, Wi-Fi, GPS or QR Code.
+
+* **Leave Management**
+
+  Design your own leave profile & company calendar for online leave management. Employee request leave by chatting with OneDee Chatbot on mobile app.
+
+* **Multi-Level Approval**
+
+  Apply the multi-level approval function with your company approval workflow. Can be separate on each department condition and suitable for any business.
+
+* **Real-Time Report**
+
+  Saving your hour with auto calculate employee working hour and can be checking on your employee anywhere & anytime with real-time data report. 
+
+* **Forms Customization** 
+
+  Create any type of custom forms you need. Flexible and allows easy form styling using predefined field e.g. request forms, expense forms or ticket forms.
+
+* **Shift Management**
+
+  Easy and simple building schedule in minute. Create your new weekly shift or just do auto copy schedule. Publish and share your employee schedule.
+
+* **AI Chatbot**
+
+  Your Personal HR Assistant, AI Chatbot helps you handle with routine jobs , data analytic and connect employees to information they need fast. Improving the employee experience. 
+
+* **Group Chat**
+
+  Increasing your teamwork efficiency by setting up your work group and sending the direct/group message with OneDee Chat Room and Task Tracking. Helping everyone always be connected.
 

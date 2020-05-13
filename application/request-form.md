@@ -6,15 +6,15 @@ description: >-
 
 # วิธีการขอแบบฟอร์ม \(Request Form\)
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image-26.png)
 
 พิมพ์ **"ขอแบบฟอร์ม"** ในช่องแชท ในหน้า Chat เพื่อทำการเรียกดูแบบฟอร์มที่มี
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image-16.png)
 
 หรือกดปุ่ม **"Quick Menu"** ด้านขวาล่างเพื่อเรียกดูเมนูขอแบบฟอร์ม
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image-3.png)
 
 กดปุ่ม **"Request Form"** เพื่อทำการเรียกดูแบบฟอร์มต่างๆ ที่ทางแอดมินในบริษัทตั้งไว้ให้
 

@@ -1,21 +1,21 @@
-# Delete Clock \(ลบเวลา\)
+# How to Delete Clock
 
-## ขั้นตอนการ Delete Clock \(ลบเวลา\)
+## Step to Delete Clock
 
-* ไปยังเมนู **Report**
-* คลิก **Timeline**
+* Go to **Reports Menu**
+* Click **Timeline**
 
-![](../../../.gitbook/assets/screenshot_4%20%281%29.png)
+![](../../../.gitbook/assets/screenshot_4-1.png)
 
-* คลิก **แถบเวลา** ที่ต้องการลบ
+* Click **Clock data**
 
 ![](../../../.gitbook/assets/screenshot_1.png)
 
-* คลิกไอคอน **รูปถังขยะ** เพื่อลบเวลา
+* Click icon **Trash** for delete that clock
 
-![](../../../.gitbook/assets/screenshot_2%20%283%29.png)
+![](../../../.gitbook/assets/screenshot_2-3.png)
 
-* คลิก **Delete** \(ลบ\)
+* Click **Delete**
 
 ![](../../../.gitbook/assets/screenshot_3.png)
 

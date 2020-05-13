@@ -1,34 +1,30 @@
-# การสร้างบัญชี OneDee.ai
+# How to Create new Account
 
-{% embed url="https://youtu.be/DVQ\_HIPY4U8" %}
+{% embed url="https://youtu.be/DVQ\_HIPY4U8" caption="" %}
 
+## How to register
 
-
-## ขั้นตอนการสร้างบัญชี OneDee
-
-* เข้า [https://app.onedee.ai](https://app.onedee.ai)  
+* go to  [**https://app.onedee.ai**](https://app.onedee.ai)
 
 ![](../.gitbook/assets/home.png)
 
-* คลิก **Create One**
-* กรอก **Email และ** **Password** พร้อมกับตอบคำถามว่ารู้จัก **OneDee** ได้อย่างไร
-* คลิก **Create My Account**
+* Click **Create One**
+* Enter **Email,** **Password** and select answer for **How Did You Know OneDee?**
+* Click **Create My Account**
 
 ![](../.gitbook/assets/untitled.png)
 
-* ระบบทำการส่งอีเมลยืนยันไปยังอีเมลของคุณ
+* Email verification will send to your email 
 
 ![](../.gitbook/assets/verify-email.png)
 
-**หลังจากยืนยันอีเมล**
+After verified
 
-* กลับมายัง [https://app.onedee.ai](https://app.onedee.ai)  
-* กรอก **อีเมล** 
-* คลิก **Next** 
-* กรอก **Password**
-* คลิก **Sign In**
+* Back to [https://app.onedee.ai](https://app.onedee.ai)  
+* Enter **Email** 
+* Click **Next** 
+* Enter **Password**
+* Click **Sign In**
 
 ![](../.gitbook/assets/sign-in.png)
-
-
 

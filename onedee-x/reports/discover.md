@@ -6,21 +6,21 @@ description: >-
 
 # Discover
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image-1.png)
 
 คลิกเมนู **"Reports"** เพื่อเรียกดูประเภทของรายงาน
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image-2.png)
 
 คลิกเมนู **"Discover"** เพื่อดูรายงานจุดลงเวลาในรูปแบบของแผนที่
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image-15.png)
 
 ระบบจะแสดงจุดลงเวลาของพนักงานตามสถานที่ต่างๆในสัญลักษณ์ หมุดวันดี  
 1. สามารถคลิกที่หมุดเพื่อทำการดูรายละเอียดเพิ่มเติมของจุดลงเวลานั้นๆ  
 2. คลิกปุ่ม **"Set Data Range"** เพื่อทำการกรองข้อมูลต่างๆ สำหรับแสดงในแผนที่
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image-34.png)
 
 **Set Data Range**  
 1.เลือกช่วงเวลาที่ต้องการดูจุดลงเวลา  

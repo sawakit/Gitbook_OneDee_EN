@@ -4,22 +4,23 @@
 
 ## วิธีใช้งาน App.OneDee.ai <a id="onedee-x"></a>
 
-* [การสร้างบัญชี OneDee.ai](onedee-x/create-account.md)
-* [การสร้างบริษัท](onedee-x/create-company.md)
-* [การขอเข้าร่วมบริษัท](onedee-x/setting.md)
-* [การจัดการพนักงานในระบบ \(Employee\)](onedee-x/employee/README.md)
+* [How to Create new Account](onedee-x/create-account.md)
+* [How to Create new Company](onedee-x/create-company.md)
+* [How to Join Company](onedee-x/setting.md)
+* [How to Manage Employee](onedee-x/employee/README.md)
   * [All Employee](onedee-x/employee/all-employee.md)
   * [Join Request](onedee-x/employee/join-request.md)
   * [Deactivated](onedee-x/employee/deactivated.md)
   * [Rejected](onedee-x/employee/rejected.md)
   * [Invitation](onedee-x/employee/invitation.md)
-* [การดูรายงาน \(Reports\)](onedee-x/reports/README.md)
+* [How to use Report](onedee-x/reports/README.md)
   * [Timeline Report](onedee-x/reports/timeline-report/README.md)
-    * [Add Clock \(ลงเวลาแทน\)](onedee-x/reports/timeline-report/add-clock.md)
-    * [Delete Clock \(ลบเวลา\)](onedee-x/reports/timeline-report/delete.md)
+    * [How to Add Clock](onedee-x/reports/timeline-report/add-clock.md)
+    * [How to Delete Clock](onedee-x/reports/timeline-report/delete.md)
   * [Timesheet Report](onedee-x/reports/company-report.md)
   * [Discover](onedee-x/reports/discover.md)
   * [Export Clocking Data](onedee-x/reports/export-clocking-data.md)
+  * [Form Report](onedee-x/reports/form-report.md)
 * [การสร้างจุดลงเวลา \(Zone\)](onedee-x/zone/README.md)
   * [iBeacon](onedee-x/zone/ibeacon.md)
   * [Wi-Fi](onedee-x/zone/wi-fi.md)
@@ -37,7 +38,7 @@
 
 ## วิธีใช้งาน Application
 
-* [วิธีการสมัครใช้ OneDeeX](application/register-app.md)
+* [How to Register OneDeeX](application/register-app.md)
 * [วิธีการยื่นคำขอเข้าบริษัท](application/join-company.md)
 * [วิธีการลงเวลาเข้างาน-เลิกงาน](application/how-to-clock.md)
 * [วิธีการพักเบรกและการออกเบรก](application/break.md)
@@ -55,10 +56,10 @@
 
 ## FAQ
 
-* [OneDee.ai คืออะไร](faq/what-is-onedee.md)
-* [OneDee.ai ทำอะไรได้บ้าง](faq/what-dose-onedee-do.md)
-* [OneDee ค่าบริการ , OneDee คิดราคาอย่างไร](faq/onedee.md)
-* [สิทธิ์ในการใช้งาน \(Role\)](faq/role.md)
+* [What is the OneDee.ai?](faq/what-is-onedee.md)
+* [OneDee.ai can do?](faq/what-dose-onedee-do.md)
+* [OneDee Pricing](faq/onedee.md)
+* [Roles & Permissions](faq/role.md)
 * [คำถามที่พบบ่อย](faq/question/README.md)
   * [คำที่ใช้คุยกับ Bot](faq/question/bot.md)
   * [ทั่วไป](faq/question/general.md)

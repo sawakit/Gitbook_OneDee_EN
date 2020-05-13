@@ -15,11 +15,11 @@
 
 * แตะ **Take a photo** เพื่อถ่ายภาพใบหน้าของพนักงาน
 
-![](../.gitbook/assets/02-clocking-screen-2%20%281%29.jpg)
+![](../.gitbook/assets/02-clocking-screen-2-1.jpg)
 
 * กดปุ่ม **Continue** เพื่อดำเนินการต่อ และระบบจะบันทึกรูปภาพของพนักงาน 
 
-![](../.gitbook/assets/02-clocking-screen-3%20%281%29.jpg)
+![](../.gitbook/assets/02-clocking-screen-3-1.jpg)
 
 * แตะ **Testing** เพื่อถ่ายภาพของพนักงานสำหรับยืนยันตัวตนอีกครั้งว่าตรงกับภาพก่อนหน้าหรือไม่
 

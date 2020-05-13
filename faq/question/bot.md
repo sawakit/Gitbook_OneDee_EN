@@ -11,14 +11,14 @@
 
 ## การลงเวลา \(Clock\)
 
-#### เข้างาน \(Clock in\)
+### เข้างาน \(Clock in\)
 
 * ลงเวลาเข้างานไวไฟ \(Clock in Wifi\)
 * ลงเวลาเข้างานบีคอน \(Clock in iBeacon\)
 * ลงเวลาเข้างานจีพีเอส \(Clock in GPS\)
 * ลงเวลาเข้างานคิวอาร์โค้ด \(Clock in QR code\)
 
-#### ออกงาน \(Clock out\)
+### ออกงาน \(Clock out\)
 
 * ลงเวลาออกงานไวไฟ \(Clock out Wifi\)
 * ลงเวลาออกงานบีคอน \(Clock out iBeacon\)
@@ -43,23 +43,17 @@
 
 ## การพักเบรก \(Break\)
 
-#### พักเบรก \(Break in\)
+### พักเบรก \(Break in\)
 
 * พักเบรกไวไฟ \(Break in Wifi\)
 * พักเบรกบีคอน \(Break in iBeacon\)
 * พักเบรกจีพีเอส \(Break in GPS\)
 * พักเบรกคิวอาร์โค้ด \(Break in QR Code\)
 
-#### ออกเบรก \(Break out\)
+### ออกเบรก \(Break out\)
 
 * ออกเบรกไวไฟ \(Break out Wifi\)
 * ออกเบรกบีคอน \(Break out iBeacon\)
 * ออกเบรกจีพีเอส \(Break out GPS\)
 * ออกเบรกคิวอาร์โค้ด \(Break out QR Code\)
-
-
-
-## 
-
-
 

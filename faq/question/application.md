@@ -1,6 +1,6 @@
 # แอพพลิเคชั่น
 
-## วิธีสมัครใช้งาน OneDee X 
+## วิธีสมัครใช้งาน OneDee X
 
 {% page-ref page="../../application/register-app.md" %}
 
@@ -16,6 +16,4 @@
 * Wi-Fi
 * GPS
 * QR Code
-
-
 

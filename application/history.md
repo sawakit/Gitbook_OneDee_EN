@@ -1,8 +1,6 @@
 # วิธีเรียกดูประวัติการลงเวลา
 
-{% embed url="https://youtu.be/28zh0ltpXxs" %}
-
-
+{% embed url="https://youtu.be/28zh0ltpXxs" caption="" %}
 
 ## ขั้นตอนการเรียกดูประวัติการลงเวลา
 
@@ -13,9 +11,5 @@
 
 * เลือก "**ประวัติที่ต้องการ**"   
 
-![](../.gitbook/assets/screenshot_2019-12-09-13-11-22-23_13e02b99a4cd518277d235759b0ee697%20%281%29.png)
-
-
-
-
+![](../.gitbook/assets/screenshot_2019-12-09-13-11-22-23_13e02b99a4cd518277d235759b0ee697-1.png)
 
