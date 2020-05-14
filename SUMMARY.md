@@ -2,7 +2,7 @@
 
 * [Welcome to OneDee.ai](README.md)
 
-## How to us App.OneDee.ai <a id="onedee-x"></a>
+## How to use App.OneDee.ai <a id="onedee-x"></a>
 
 * [How to create new Account](onedee-x/create-account.md)
 * [How to create new Company](onedee-x/create-company.md)
