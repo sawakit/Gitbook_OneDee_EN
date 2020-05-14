@@ -10,5 +10,3 @@ Questions?
 
 {% page-ref page="application/register-app.md" %}
 
-{% page-ref page="onedee-station/onedee-station.md" %}
-
