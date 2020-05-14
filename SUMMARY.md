@@ -2,7 +2,7 @@
 
 * [Welcome to OneDee.ai](README.md)
 
-## วิธีใช้งาน App.OneDee.ai <a id="onedee-x"></a>
+## How to us App.OneDee.ai <a id="onedee-x"></a>
 
 * [How to create new Account](onedee-x/create-account.md)
 * [How to create new Company](onedee-x/create-company.md)
@@ -39,7 +39,7 @@
 * [การสร้างประกาศ \(Announce\)](onedee-x/announce.md)
 * [ปฏิทินวันหยุด \(Holidays\)](onedee-x/holidays.md)
 
-## วิธีใช้งาน Application
+## How to use Application <a id="application"></a>
 
 * [How to Register OneDeeX](application/register-app.md)
 * [วิธีการยื่นคำขอเข้าบริษัท](application/join-company.md)
