@@ -1,4 +1,4 @@
-# How to Create new Company
+# How to create new Company
 
 ## Set up Profile <a id="1"></a>
 

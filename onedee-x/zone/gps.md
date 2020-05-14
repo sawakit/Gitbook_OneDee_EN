@@ -1,30 +1,30 @@
 ---
-description: จุดลงเวลาตามพิกัด GPS ที่ทางบริษัทกำหนดไว้
+description: Display all GPS in your company
 ---
 
 # GPS
 
 {% embed url="https://youtu.be/SMwaOVt185c" caption="" %}
 
-## วิธีการสร้างจุดลงเวลา GPS
+## How to Create GPS
 
-* ไปยังเมนู **Zone**
-* คลิก **GPS**
+* Go to **Zone**
+* Click **GPS**
 
-![](../../.gitbook/assets/app.onedee-12.1.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-7-copy-4%20%281%29.png)
 
-* คลิก **New Zone**
-* คลิก **GPS**
+* Click **New Zone**
+* Click **GPS**
 
-![](../../.gitbook/assets/app.onedee-16-copy-3.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-9.png)
 
-* กรอก **ชื่อพื้นที่ที่ต้องการ**
-* กรอก **Latitude** และ **Longitude** หรือ ค้นหาจุดลงเวลาที่ต้องการในช่อง**ค้นหา**
-* คลิก **Create**
+* Enter **Name** you want
+* Enter **Latitude** and **Longitude** or enter name on **Search input**
+* Click **Create**
 
 {% hint style="info" %}
-สามารถปรับรัศมี \(Radius\) จุดลงเวลา ได้ตามความเหมาะสมที่ต้องการ
+You can set radius between 80 meters to10000 meters.
 {% endhint %}
 
-![](../../.gitbook/assets/app.onedee-15.1.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-14.png)
 

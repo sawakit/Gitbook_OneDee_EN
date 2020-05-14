@@ -1,31 +1,31 @@
 ---
-description: รายการจุดลงเวลาด้วย Wi-Fi ทั้งหมดในบริษัท
+description: Display all Wi-Fi in your company.
 ---
 
 # Wi-Fi
 
 {% embed url="https://youtu.be/RHR0kvEj\_2Q" caption="" %}
 
-## วิธีการสร้างจุดลงเวลา Wi-Fi
+## How to Create Wi-Fi
 
-* ไปยังเมนู **Zone**
-* คลิก **Wi-Fi**
+* Go to **Zone**
+* Click **Wi-Fi**
 
-![](../../.gitbook/assets/app.onedee-14.1.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-7-copy-3.png)
 
-* คลิก **New Zone**
-* คลิก **Wi-Fi**
+* Click **New Zone**
+* Click **Wi-Fi**
 
-![](../../.gitbook/assets/app.onedee-16.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-8.png)
 
-* กรอก  **ชื่อพื้นที่ที่ต้องการ**
-* กรอก **Mac Address**
-* กรอก **ชื่อ Wi-Fi**
-* คลิก **Create**
+* Enter  **Name** you want
+* Enter **Mac Address**
+* Enter **Wi-Fi Name**
+* Click **Create**
 
 {% hint style="info" %}
-**Mac Address** สามารถหาได้จาก **Router Wi-Fi** หรือ โหลดแอพพลิเคชั่น **WiFi Analyzer**
+**Mac Address** can find on **Router Wi-Fi** or  **WiFi Analyzer** application
 {% endhint %}
 
-![](../../.gitbook/assets/create-wifi.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-13.png)
 

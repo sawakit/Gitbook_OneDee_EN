@@ -1,26 +1,26 @@
 ---
-description: แสดงจุดลงเวลา iBeacon ทั้งหมดในบริษัทที่นำเข้าระบบ
+description: Display all iBeacon in your company.
 ---
 
 # iBeacon
 
 {% embed url="https://youtu.be/rSWqrN\_oH9s" caption="" %}
 
-## วิธีการสร้างจุดลงเวลา iBeacon
+## How to create iBeacon
 
-* ไปยังเมนู **Zone**
-* คลิก **iBeacon**
+* Go to **Zone Menu**
+* Click **iBeacon**
 
-![](../../.gitbook/assets/app.onedee-14.2.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-7-copy-2.png)
 
-* คลิก **New Zone**
-* คลิก i**Beacon**
+* Click **New Zone**
+* Click i**Beacon**
 
-![](../../.gitbook/assets/beacon.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-2.png)
 
-* กรอก **ชื่อพื้นที่**
-* กรอก **iBeacon ID**
-* คลิก **Create**
+* Enter **Zone Name**
+* Enter **iBeacon ID**
+* Click **Create**
 
-![](../../.gitbook/assets/app.onedee-14.3.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-12.png)
 

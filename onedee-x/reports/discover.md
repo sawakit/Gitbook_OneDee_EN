@@ -1,30 +1,30 @@
 ---
-description: >-
-  Discover Report คือรายงานที่ใช้แสดงจุดลงเวลาของพนักงานในรูปของแผนที่
-  ไว้ใช้ในการตรวจสอบในกรณีที่ต้องการทราบจุดลงเวลาของพนักงาน
+description: Find out where your employees are clocking.
 ---
 
 # Discover
 
-![](../../.gitbook/assets/image-1.png)
+## How to use Discover Report
 
-คลิกเมนู **"Reports"** เพื่อเรียกดูประเภทของรายงาน
+* Click **Reports Menu**
+* Click **Discover**
 
-![](../../.gitbook/assets/image-2.png)
+![](../../.gitbook/assets/app.onedee.ai_en-laptop-with-mdpi-screen-1.png)
 
-คลิกเมนู **"Discover"** เพื่อดูรายงานจุดลงเวลาในรูปแบบของแผนที่
+* Click **Set Dara range**
 
 ![](../../.gitbook/assets/image-15.png)
 
-ระบบจะแสดงจุดลงเวลาของพนักงานตามสถานที่ต่างๆในสัญลักษณ์ หมุดวันดี  
-1. สามารถคลิกที่หมุดเพื่อทำการดูรายละเอียดเพิ่มเติมของจุดลงเวลานั้นๆ  
-2. คลิกปุ่ม **"Set Data Range"** เพื่อทำการกรองข้อมูลต่างๆ สำหรับแสดงในแผนที่
+This report will display clock data as a pin on the map  
+1. You can click on the pin on the map for view that clock details  
+2. Click **Set Data Range** for filter clock data on the map
 
 ![](../../.gitbook/assets/image-34.png)
 
-**Set Data Range**  
-1.เลือกช่วงเวลาที่ต้องการดูจุดลงเวลา  
-2.เลือกประเภทของการลงเวลาหรือพักเบรก  
-3.เลือกรูปแบบประเภทการค้นหา เช่น Department, Employee และ Zone  
-4.เลือกกลุ่มในการดูรายงานโดยแบบทั้งหมดหรือโดยเฉพาะเจาะจง
+**Set Data Range**
+
+* Select **Duration**
+* Select **Clock Type**
+* Select **Search by**
+* Select **Data for All Team or Select Team**
 

@@ -4,7 +4,7 @@ description: >-
   Rejected and Invitation
 ---
 
-# How to Manage Employee
+# How to manage Employee
 
 {% page-ref page="all-employee.md" %}
 

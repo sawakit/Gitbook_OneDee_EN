@@ -4,43 +4,41 @@ description: >-
   เป็นต้น
 ---
 
-# การสร้างแบบฟอร์มต่างๆ \(Forms\)
+# How to create Form
+
+**OneDee** has 3 standard forms are Leave Request Form, Overtime Request Form and Add Clock Request Form
 
 {% embed url="https://youtu.be/-KFeOw3PN\_k" caption="" %}
 
-* เมนู **Forms** เป็นเมนูสำหรับสร้างแบบฟอร์มต่างๆ เช่น ฟอร์มวันลา ฟอร์มเบิกค่าใช้จ่ายต่างๆ เป็นต้น
+## How to create Form
 
-![](../.gitbook/assets/form.png)
+* Go to **Forms Menu**
+* Click **New Request Form**
 
-* คลิก **New Request Form** 
-* ช่อง **Name** กรอกชื่อแบบฟอร์มที่ต้องการสร้าง
-* คลิก **Create** เพื่อสร้างแบบฟอร์ม
+![](../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-26.png)
 
-![](../.gitbook/assets/create-form.png)
+* Enter **Form** **Name** 
+* Click **Create**
 
-* คลิกไอคอน ![](../.gitbook/assets/group-53.1.png) _\*\*_เพื่อสร้างรูปแบบของแบบฟอร์ม
-* เลือก **ประเภทของข้อมูล**
-* คลิก **Save**
+![](../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-27.png)
 
-![](../.gitbook/assets/form-detail.png)
+* Click icon ![](../.gitbook/assets/group-53.1.png) for create type in form
 
-* **Descriptions** มีไว้สำหรับ**อธิบายแบบฟอร์มเพิ่มเติม** เช่น ใช้เป็นหมายเหตุของแบบฟอร์มนั้นๆ เป็นต้น
+![](../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-28.png)
 
-![](../.gitbook/assets/untitled-7.png)
+* Select **Type**
+  * **Descriptions** 
+  * **Divider**
+  * **Dropdown**
+  * **Text Field**
+  * **Time Picker**
+  * **Checkbox**
+  * **Date Time Picker**
+  * **Date Picker**
+  * **Image Picker**
+  * **File Picker**
+  * **Radio**
+* Click **Save/Update**
 
-* **Divider** เป็นเหมือน**เส้นกั้นเมนู**
-
-![](../.gitbook/assets/divider.png)
-
-* **Text Field** สามารถกรอกข้อความที่เป็น Text ได้ **อาจใช้เป็นช่องกรอกเหตุผลสำหรับการขอแบบฟอร์ม**นี้ เช่น เหตุผลในการขอเบิก เป็นต้น
-
-![](../.gitbook/assets/text-field.png)
-
-* **Date Picker** เป็นเมนูสำหรับ**สร้างวันเดือนปี**ในการที่ต้องการให้พนักงานเลือกวันที่ที่ต้องการทำการ
-
-![](../.gitbook/assets/date-picker.png)
-
-* **Dropdown** เป็นเมนูสำหรับ**สร้างตัวเลือก** 
-
-![](../.gitbook/assets/dropdown.png)
+![](../.gitbook/assets/screen-shot-2563-05-14-at-16.55.52.png)
 

@@ -1,8 +1,16 @@
----
-description: >-
-  เมนู Zone เป็นเมนูสำหรับสร้าง/จัดการจุดลงเวลา ประเภทของจุดลงเวลามีทั้งหมด 4
-  แบบ ได้แก่ iBeacon, Wi-Fi, GPS และ QR Code
----
+# How to create Zone
 
-# การสร้างจุดลงเวลา \(Zone\)
+OneDee has 5 zone types for clock.
+
+{% page-ref page="ibeacon.md" %}
+
+{% page-ref page="wi-fi.md" %}
+
+{% page-ref page="gps.md" %}
+
+{% page-ref page="qr-code.md" %}
+
+{% page-ref page="face-scanner.md" %}
+
+
 

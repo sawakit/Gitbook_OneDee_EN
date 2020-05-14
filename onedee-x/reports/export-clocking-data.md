@@ -1,34 +1,44 @@
+---
+description: Download employee’s clocking data.
+---
+
 # Export Clocking Data
+
+## How to Export Clock data
+
+* Go to **Reports Menu**
+* Click **Export Clocking Data**
 
 ![](../../.gitbook/assets/screen-shot-2563-04-30-at-08.21.59.png)
 
-* คลิกเมนู **Report**
-* เลือก **Export Clocking Data**
+* Click **Set Date Range** for select duration
+* Click **Select Column** you want
 
 ![](../../.gitbook/assets/screen-shot-2563-04-30-at-08.24.27.png)
 
-* กำหนดช่วงวันที่ที่ต้องการที่ **Set Data Range**
-* กำหนดคอลัมน์ที่ **Select Column**
+* **Set Format in each Column**
 
 ![](../../.gitbook/assets/screen-shot-2563-04-30-at-08.25.39.png)
 
-* เลือก **Format** ที่ต้องการ
+* Click **Add Email**
 
 ![](../../.gitbook/assets/screen-shot-2563-04-30-at-08.26.32.png)
 
-* **Add Email** เพื่อทำการส่งไฟล์
+* Enter **Email** you want
+* Click **Add**
+* Click **Apply**
 
 ![](../../.gitbook/assets/screen-shot-2563-04-30-at-08.28.01.png)
 
-* กรอกอีเมลที่ต้องการ
-* เลือก **Add** เพื่อเพิ่มอีเมล
-* เสร็จแล้วเลือก **Apply**
+* Click **Export Clocking Data**
 
 ![](../../.gitbook/assets/screen-shot-2563-04-30-at-08.29.44.png)
 
-* เสร็จแล้วเลือก **Export Clocking Data** 
+* Waiting for send clocking data report to your email
 
 ![](../../.gitbook/assets/screen-shot-2563-04-30-at-12.05.49.png)
 
-* ไฟล์รายงานจะถูกส่งไปยังอีเมลที่กรอกไว้ สามารถ Download ไฟล์รายงานได้ที่อีเมลได้เลย
+{% hint style="info" %}
+You can Download Clocking data report on your Email
+{% endhint %}
 

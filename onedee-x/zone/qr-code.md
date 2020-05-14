@@ -1,33 +1,33 @@
 ---
-description: รายการจุดลงเวลาด้วย QR Code ทั้งหมดในบริษัท
+description: Display all QR Code in your company.
 ---
 
 # QR Code
 
 {% embed url="https://youtu.be/zPxTULd5BKY" caption="" %}
 
-## **วิธีการสร้างจุดลงเวลาแบบ** **QR Code**
+## **How to create** **QR Code**
 
-* ไปยังเมนู **Zone** 
-* คลิก **QR Code**
+* Go to **Zone** 
+* Click **QR Code**
 
-![](../../.gitbook/assets/app.onedee-13.1.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-7-copy-4.png)
 
-* คลิก **New Zone**
-* คลิก **QR Code**
+* Click **New Zone**
+* Click **QR Code**
 
-![](../../.gitbook/assets/app.onedee-16-copy.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-10.png)
 
-* กรอก **ชื่อพื้นที่ที่ต้องการ**
-* คลิก **Create**
+* Enter **Name** you want
+* Click **Create**
 
-![](../../.gitbook/assets/app.onedee-14.4.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-15.png)
 
-* คลิก ไอคอน "**รูปตา**" เพื่อดู **QR Code**
+* Click icon "**eye**" for view **QR Code**
 
-![](../../.gitbook/assets/app.onedee-15.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-17.png)
 
-* คลิก **กากบาท** เพื่อปิด **QR Code**
+* Click "**X**" for close **QR Code**
 
-![](../../.gitbook/assets/app.onedee-14.5.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-18.png)
 

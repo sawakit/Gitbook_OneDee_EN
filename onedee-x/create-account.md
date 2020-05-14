@@ -1,4 +1,4 @@
-# How to Create new Account
+# How to create new Account
 
 {% embed url="https://youtu.be/DVQ\_HIPY4U8" caption="" %}
 
