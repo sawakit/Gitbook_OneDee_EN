@@ -36,10 +36,12 @@
   * [Company Profile](onedee-x/company/company-profile.md)
   * [Plan & Billing](onedee-x/company/plan-and-billing.md)
 * [How to set Working Hours](onedee-x/working-hours.md)
-* [How to manage Team](onedee-x/team.md)
-* [การสร้างโควต้าวันลา \(Leave quota\)](onedee-x/leave-quota.md)
-* [การสร้างประกาศ \(Announce\)](onedee-x/announce.md)
-* [ปฏิทินวันหยุด \(Holidays\)](onedee-x/holidays.md)
+* [How to manage Teams](onedee-x/team.md)
+* [How to create Leave Quota](onedee-x/leave-quota.md)
+* [How to manage Announce](onedee-x/announce.md)
+* [How to set Holiday](onedee-x/holidays.md)
+* [How to use Position](onedee-x/how-to-use-position.md)
+* [How to use Payroll](onedee-x/how-to-use-payroll.md)
 
 ## How to use Application <a id="application"></a>
 

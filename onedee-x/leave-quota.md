@@ -1,24 +1,27 @@
-# การสร้างโควต้าวันลา \(Leave quota\)
+# How to create Leave Quota
 
-![](../.gitbook/assets/screenshot_4-2.png)
+* Go to **Teams Menu**
+* Select **Team** you want
 
-* คลิกเมนู **Team**
-* เลือก **Team** ที่ต้องการ
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-19-%20%281%29.png)
 
-![](../.gitbook/assets/screenshot_7.png)
+* Click tab **Leave Quota**
+* Click **Add Leave Type** to add leave quota
 
-* เลือกแถบ **Leave Quota**
-* คลิก **Add Leave Type** เพื่อเพิ่มประเภทวันลา
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-20-.png)
 
-![](../.gitbook/assets/screenshot_8.png)
+* Select **Leave Type**
+* Set **Quota Type \(Fixed Quota** or **Duration of Employment\)**
+* Set **Number of Quota**
+* Click **Create**
 
-* เลือก **Leave Type** ที่ต้องการ
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-21-.png)
 
-![](../.gitbook/assets/screenshot_9.png)
-
-ในช่อง **Quota Type** หากมีโควต้าการลารูปแบบเดียวกันในบริษัท เลือกตั้งค่าได้ที่ **Fixed Quota**
+## How to set Leave Quota for Duration Of Employment
 
 ![](../.gitbook/assets/screenshot_10.png)
 
-หากบริษัทมีรูปแบบโควต้าการลาแตกต่างกันตามอายุงาน สามารถเลือกตั้งค่าได้ที่ **Duration Of Employment**
+* Select **Duration Of Employment**
+* Click **Add More**
+* Click **Create**
 

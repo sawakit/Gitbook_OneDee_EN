@@ -1,41 +1,44 @@
-# การสร้างประกาศ \(Announce\)
+# How to manage Announce
+
+* Go to **Announce Menu**
+* Click **New Announcement** to create announce
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.16.38.png)
 
-* เลือกเมนู **Announce \(ประกาศ\)**
-* เลือก **New Announcement** เพื่อสร้างประกาศ
-
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.18.26.png)
 
-* **กรอกชื่อ**ประกาศที่ต้องการสร้าง
-* **กรอก Code** \(รหัส\) \*ถ้ามี
-* เสร็จแล้วกด **Create** 
+* Enter **Announcement Name**
+* Enter **Code** \(option\)
+* Click **Create** 
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.20.09.png)
 
-* กด **เลือก** ผู้รับ
+* Click **Recipients**
+* Select **Add by** and **Data**
+* Click **Apply**
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.20.51.png)
 
-* **ผู้รับ** สามารถกำหนดเป็นพนักงาน หรือ Department ก็ได้
+* Set **Date send**
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.21.26.png)
 
-* **เวลาส่ง** สามารถเลือกส่งทันทีหลังจากทำประกาศเสร็จ หรือกำหนดวันเวลาในการส่งได้
+* Set **Time send**
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.22.18.png)
 
-* สามารถใส่ภาพประกอบในการประกาศได้
+* Import **image** 
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.23.11.png)
 
-* กรอก **หัวข้อ** ที่ต้องการประกาศ
+* Enter **Title Name**
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.25.22.png)
 
-* กรอกรายละเอียดที่ต้องการ และ รายละเอียดบางข้อความสามารถเพิ่ม Link ในข้อความนั้นๆ ได้ โดยการคลุมข้อความที่ต้องการเพิ่ม Link และ Copy link ที่ต้องการ วางลงในช่องสีดำแล้ว Enter
+* Enter **your details** \(add link or select text style\)
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.26.25.png)
 
-* เสร็จแล้วกด Save ได้เลย แต่หากต้องการส่งทันที สามารถกด Send ได้เช่นกัน ระบบก็จะทำการ Save ให้อัตโนมัติ
+* Click **Save** to save this announcement
+* Click **Send** for send this announcement to your recipients
 

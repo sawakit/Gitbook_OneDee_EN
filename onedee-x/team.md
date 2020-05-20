@@ -5,49 +5,52 @@ description: >-
   เพื่ออนุมัติคำขอของแบบฟอร์มต่างๆ แยกตามแต่ละ Team ได้
 ---
 
-# How to manage Team
+# How to manage Teams
 
 ## How to Create Team
 
 * Click **Create New Team** for create **New** **Team**
 
-![](../.gitbook/assets/departments.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-7-.png)
 
 * Enter **Team Name** you want
 * Click **Create**
 
-![](../.gitbook/assets/create-department.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-8-.png)
 
 ## How to Create Sub-Team
 
 * Click ![](../.gitbook/assets/group-108.2.png) for Expand all **Sub-Team**
 * Click **Create New Team**
 
-![](../.gitbook/assets/sup.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-10-.png)
 
 * Enter **Name Sub-Team**
 * Click **Create**
 
-![](../.gitbook/assets/create-sup.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-11-.png)
 
 ## How to add Member
 
 * Enter **Employee Name** in search box 
+
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-12-.png)
+
 * Click **Employee Name**
 
-![](../.gitbook/assets/member.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-13-.png)
 
 ## How to Create Approve Flow
 
 * Click **Approve Line**
 * Click **New Flow**
 
-![](../.gitbook/assets/approve-line.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-14-%20%281%29.png)
 
 * Enter **Flow Name**
 * Click **Create**
 
-![](../.gitbook/assets/new-flow.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-15-.png)
 
 ## How to Set up Approve Lines
 
@@ -67,7 +70,7 @@ description: >-
 * Enter **Approver Group Name**
 * Click **Create**
 
-![](../.gitbook/assets/create-approver.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-16-.png)
 
 * Click **Manage Approver** 
 * Select **ผู้อนุมัติ**
@@ -83,11 +86,13 @@ description: >-
 
 * Click **Add Manager**
 
-![](../.gitbook/assets/approve-line1-copy.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-14-.png)
 
 * Enter **Employee Name** you want
 * Click **Employee Name**
 * Click **Save**
 
-![](../.gitbook/assets/manager.png)
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-17-.png)
+
+![](../.gitbook/assets/app.onedee.ai_en_position-laptop-with-mdpi-screen-18-.png)
 

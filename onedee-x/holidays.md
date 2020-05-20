@@ -1,18 +1,22 @@
-# ปฏิทินวันหยุด \(Holidays\)
+# How to set Holiday
+
+* Go to **Holidays** **Menu**
+* Click **Add New Holiday**
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.46.44.png)
 
-* เลือกเมนู **Holidays** \(ปฏิทินวันหยุด\)
-* กด **Add New Holiday** เพื่อเพิ่มวันหยุดของบริษัท
+![](../.gitbook/assets/screen-shot-2563-05-11-at-13.46.44.png)
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.51.03.png)
 
-* กรอกชื่อวันหยุดที่ต้องการเพิ่มในช่อง **Holiday Name**
-* เลือกวันที่ที่ต้งการเพิ่มวันหยุดของบริษัท ใน **Choose Date**
-* เสร็จแล้วกด **Create**
+* Enter **Holiday Name**
+* Select Date on **Choose Date** field
+* Click **Create**
 
 ![](../.gitbook/assets/screen-shot-2563-05-11-at-13.52.46.png)
 
-* **Public Holiday** = วันหยุดสากล หรือวันหยุดตามกฎหมายแรงงาน ที่ทางระบบได้กำหนดไว้ให้
-* **Company Holiday** = วันหยุดของบริษัท สามารถกำหนดได้เอง
+{% hint style="info" %}
+* **Public Holiday** = International holidays or holidays under the labor laws
+* **Company Holiday** = You can create by your own company holiday
+{% endhint %}
 
