@@ -22,5 +22,5 @@ description: Display all iBeacon in your company.
 * Enter **iBeacon ID**
 * Click **Create**
 
-![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-12.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-12-.png)
 

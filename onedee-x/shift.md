@@ -19,7 +19,7 @@
 
 * Click **Shift Name** you want
 
-![](../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-19.png)
+![](../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-19-.png)
 
 * Click **New Time Shift**
 

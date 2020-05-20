@@ -1,4 +1,6 @@
-# การจัดเวลาทำงานของพนักงาน \(Working Hours\)
+# How to set Working Hours
+
+
 
 ![](../.gitbook/assets/image-33.png)
 

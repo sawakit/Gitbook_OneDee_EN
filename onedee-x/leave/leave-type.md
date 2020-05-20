@@ -5,7 +5,7 @@
 * Go to **Leave Menu**
 * Click **Leave Type**
 
-![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-29.png)
+![](../../.gitbook/assets/app.onedee.ai_en_dashboard-laptop-with-mdpi-screen-29-.png)
 
 * Click **New Leave Type**
 

@@ -25,7 +25,7 @@
 
 {% embed url="https://youtu.be/3K8K55BSfiA" caption="" %}
 
-![](../.gitbook/assets/gps-1.jpg)
+![](../.gitbook/assets/gps%20%281%29.jpg)
 
 {% embed url="https://youtu.be/Ibh606j6CwI" caption="" %}
 

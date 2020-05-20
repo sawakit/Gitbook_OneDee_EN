@@ -6,7 +6,7 @@
 * Select **Plan & Billing**
 * Click **Change Plan**
 
-![](../../.gitbook/assets/app.onedee.ai_en_leave_leave-balance-laptop-with-mdpi-screen-3.png)
+![](../../.gitbook/assets/app.onedee.ai_en_leave_leave-balance-laptop-with-mdpi-screen-3-.png)
 
 * Click **Upgrade Plan**
 

@@ -38,7 +38,7 @@ description: Displays clocking reports in table format.
 
 * Click **Save As**
 
-![](../../.gitbook/assets/untitled-6-1.png)
+![](../../.gitbook/assets/untitled-6%20%281%29.png)
 
 * Enter **Report name**
 * Click **Save**
