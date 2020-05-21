@@ -54,13 +54,6 @@
 * [วิธีการขอแบบฟอร์ม \(Request Form\)](application/request-form.md)
 * [วิธีการแก้ไขโปรไฟล์ \(Edit Profile\)](application/undefined.md)
 
-## วิธีใช้งาน OneDee Station
-
-* [การสมัครใช้งาน OneDee Station](onedee-station/onedee-station.md)
-* [การสร้าง Station ลงเวลา](onedee-station/untitled.md)
-* [การเพิ่มพนักงาน](onedee-station/undefined.md)
-* [การลงเวลา OneDee Station](onedee-station/onedee-station-1.md)
-
 ## FAQ
 
 * [What is the OneDee.ai?](faq/what-is-onedee.md)
@@ -68,7 +61,7 @@
 * [OneDee Pricing](faq/onedee.md)
 * [Roles & Permissions](faq/role.md)
 * [คำถามที่พบบ่อย](faq/question/README.md)
-  * [คำที่ใช้คุยกับ Bot](faq/question/bot.md)
+  * [Words used to talk with bots](faq/question/bot.md)
   * [ทั่วไป](faq/question/general.md)
   * [เว็บไซต์](faq/question/website.md)
   * [แอพพลิเคชั่น](faq/question/application.md)
