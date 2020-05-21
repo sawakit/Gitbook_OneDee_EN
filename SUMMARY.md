@@ -62,7 +62,7 @@
 * [Roles & Permissions](faq/role.md)
 * [FAQ](faq/question/README.md)
   * [Words used to talk with bots](faq/question/bot.md)
-  * [ทั่วไป](faq/question/general.md)
+  * [Any Question](faq/question/general.md)
   * [Website](faq/question/website.md)
   * [Application](faq/question/application.md)
 

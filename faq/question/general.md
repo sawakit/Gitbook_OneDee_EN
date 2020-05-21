@@ -1,4 +1,4 @@
-# ทั่วไป
+# Any Question
 
 ## Passcode หาได้จากที่ไหน
 
