@@ -63,6 +63,6 @@
 * [FAQ](faq/question/README.md)
   * [Words used to talk with bots](faq/question/bot.md)
   * [ทั่วไป](faq/question/general.md)
-  * [เว็บไซต์](faq/question/website.md)
+  * [Website](faq/question/website.md)
   * [Application](faq/question/application.md)
 

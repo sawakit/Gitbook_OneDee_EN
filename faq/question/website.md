@@ -1,6 +1,6 @@
-# เว็บไซต์
+# Website
 
-## วิธีการสมัครใช้งาน
+## How to register OneDee.ai
 
 {% page-ref page="../../onedee-x/create-account.md" %}
 
