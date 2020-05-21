@@ -1,12 +1,12 @@
-# แอพพลิเคชั่น
+# Application
 
-## วิธีสมัครใช้งาน OneDee X
+## How to register OneDee X
 
 {% page-ref page="../../application/register-app.md" %}
 
-## **ลงเวลาออฟไลน์ได้ไหม**
+## **Can clock offline?**
 
-ระบบของเรา**ไม่สามารถ**ทำการลงเวลาออฟไลน์ได้ ต้องทำการเชื่อมต่ออินเตอร์เน็ตเพื่อทำการลงเวลา
+OneDee X can't clock offline, you must be connect internet before clock 
 
 ## How many type you can clock?
 

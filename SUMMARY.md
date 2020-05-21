@@ -64,5 +64,5 @@
   * [Words used to talk with bots](faq/question/bot.md)
   * [ทั่วไป](faq/question/general.md)
   * [เว็บไซต์](faq/question/website.md)
-  * [แอพพลิเคชั่น](faq/question/application.md)
+  * [Application](faq/question/application.md)
 

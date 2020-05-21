@@ -4,7 +4,7 @@
 
 * [What is the OneDee.ai](https://docs.onedee.ai/faq/what-is-onedee)
 * [OneDee.ai can do](https://docs.onedee.ai/faq/what-dose-onedee-do)
-* [How many you can clock?](https://support.onedee.ai/th/faq/question/application#how-many-type-you-can-clock)
+* [How many you can clock?](https://docs.onedee.ai/faq/question/application#how-many-type-you-can-clock)
 * [เข้าร่วมบริษัท](https://support.onedee.ai/th/application/join-company)
 * [แก้ไขโปรไฟล์](https://support.onedee.ai/th/application/undefined)
 * [แบบฟอร์ม](https://support.onedee.ai/th/application/request-form)
