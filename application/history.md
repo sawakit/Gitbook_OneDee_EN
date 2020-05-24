@@ -1,15 +1,15 @@
-# วิธีเรียกดูประวัติการลงเวลา
+# How to get your Clock History
 
 {% embed url="https://youtu.be/28zh0ltpXxs" caption="" %}
 
-## ขั้นตอนการเรียกดูประวัติการลงเวลา
+## How to get your Clock History
 
-* เข้าหน้า "**Chat Bot OneDee**"
-* พิมพ์คำว่า "**เรียกดูประวัติ**"   
+* Go to "**Chat Bot OneDee**"
+* Type a message "**Clock History**" 
 
-![](../.gitbook/assets/screenshot_2019-12-09-13-11-10-71_13e02b99a4cd518277d235759b0ee697.png)
+![](../.gitbook/assets/screenshot_2020-05-22-15-27-22-95_13e02b99a4cd518277d235759b0ee697.jpg)
 
-* เลือก "**ประวัติที่ต้องการ**"   
+* Select "**Clock History you want**"   
 
-![](../.gitbook/assets/screenshot_2019-12-09-13-11-22-23_13e02b99a4cd518277d235759b0ee697-1.png)
+![](../.gitbook/assets/screenshot_2020-05-22-15-27-31-74_13e02b99a4cd518277d235759b0ee697.jpg)
 

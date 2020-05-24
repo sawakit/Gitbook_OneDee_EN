@@ -1,45 +1,57 @@
-# วิธีการลงเวลาเข้างาน-เลิกงาน
+# How to Clock in/ out
 
-การลงเวลาของ OneDee X มีทั้งหมด **4** รูปแบบ ดังนี้
+You can clock with OneDee X has **4** types
 
 * iBeacon 
 * Wi-Fi 
 * GPS 
 * QR Code
 
-{% tabs %}
 
 
+## How to Clock with iBeacon
 
 {% embed url="https://youtu.be/v0e9tIKm33s" caption="" %}
 
-![](../.gitbook/assets/ibeacon-1.jpg)
+![](../.gitbook/assets/07-ibeacon.png)
+
+![](../.gitbook/assets/08-ibeacon.png)
 
 
+
+## How to Clock with Wi-Fi
 
 {% embed url="https://youtu.be/8mzaI-TMZMc" caption="" %}
 
-![](../.gitbook/assets/wi-fi-2.jpg)
+![](../.gitbook/assets/09-wi-fi.png)
 
+![](../.gitbook/assets/10-wi-fi.png)
 
+## How to Clock with GPS
 
 {% embed url="https://youtu.be/3K8K55BSfiA" caption="" %}
 
-![](../.gitbook/assets/gps%20%281%29.jpg)
+![](../.gitbook/assets/11-gps.png)
+
+![](../.gitbook/assets/12-gps.png)
+
+## How to Clock with QR Code
 
 {% embed url="https://youtu.be/Ibh606j6CwI" caption="" %}
 
-![](../.gitbook/assets/qr-code.jpg)
+![](../.gitbook/assets/13-qr-code.png)
 
-## ขั้นตอนการลงเวลาเข้างาน
+![](../.gitbook/assets/14-qr-code.png)
 
-* เข้าหน้า "**Chat Bot OneDee**"
-* พิมพ์ข้อความว่า "**เข้างาน**"
-* เลือก **จุดลงเวลาที่ต้องการเข้างาน**
+## How to talk with Bot for Clock in
 
-## ขั้นตอนการลงเวลาเลิกงาน
+* Go to "**Chat Bot OneDee**"
+* Type message **"Clock in"**
+* Select **Zone type**
 
-* เข้าหน้า "**Chat Bot OneDee**"
-* พิมพ์ข้อความว่า "**เลิกงาน**"
-* เลือก **จุดลงเวลาที่ต้องการเข้างาน**
+## How to talk with Bot for Clock out
+
+* Go to "**Chat Bot OneDee**"
+* Type message **"Clock out"**
+* Select **Zone type**
 

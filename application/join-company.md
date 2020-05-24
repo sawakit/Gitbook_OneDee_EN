@@ -1,4 +1,4 @@
-# วิธีการยื่นคำขอเข้าบริษัท
+# How to Join Company
 
-![](../.gitbook/assets/undefined.jpg)
+![](../.gitbook/assets/06-.png)
 

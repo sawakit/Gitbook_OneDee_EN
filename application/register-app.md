@@ -1,8 +1,8 @@
 # How to Register OneDeeX
 
-![](../.gitbook/assets/welcome-to-onedee-x.jpg)
+![](../.gitbook/assets/01-welcome-to-onedee-x-1-.png)
 
-![](../.gitbook/assets/4-onedee-x.jpg)
+![](../.gitbook/assets/02-4-onedee-x.png)
 
 
 
@@ -10,17 +10,17 @@
 
 {% embed url="https://youtu.be/NQUR\_hxOQ\_k" caption="" %}
 
-![](../.gitbook/assets/email-1.jpg)
+![](../.gitbook/assets/03-email.png)
 
 ## Register with Phone no.
 
 {% embed url="https://youtu.be/Ozn9LMxWxSQ" caption="" %}
 
-![](../.gitbook/assets/phone-number.jpg)
+![](../.gitbook/assets/04-phone-number.png)
 
 ## Register with Social Media
 
 {% embed url="https://youtu.be/GTMpjtdjqs0" caption="" %}
 
-![](../.gitbook/assets/facebook-google-account.jpg)
+![](../.gitbook/assets/05-facebook-google-account.png)
 

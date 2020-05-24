@@ -46,11 +46,11 @@
 ## How to use Application <a id="application"></a>
 
 * [How to Register OneDeeX](application/register-app.md)
-* [วิธีการยื่นคำขอเข้าบริษัท](application/join-company.md)
-* [วิธีการลงเวลาเข้างาน-เลิกงาน](application/how-to-clock.md)
-* [วิธีการพักเบรกและการออกเบรก](application/break.md)
-* [วิธีเรียกดูประวัติการลงเวลา](application/history.md)
-* [วิธีเรียกดูกะทำงาน](application/shift-time.md)
+* [How to Join Company](application/join-company.md)
+* [How to Clock in/ out](application/how-to-clock.md)
+* [How to Break in/out](application/break.md)
+* [How to get your Clock History](application/history.md)
+* [How to get your Time Shift](application/shift-time.md)
 * [วิธีการขอแบบฟอร์ม \(Request Form\)](application/request-form.md)
 * [วิธีการแก้ไขโปรไฟล์ \(Edit Profile\)](application/undefined.md)
 

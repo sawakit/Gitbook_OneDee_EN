@@ -1,8 +1,8 @@
 # Any Question
 
-## Passcode หาได้จากที่ไหน
+## Where to find Passcode?
 
-คุณสามารถค้นหา Passcode ของบริษัทได้จาก **เมนูบริษัท**
+You can find Passcode on Company menu
 
 ## **พนักงานสามารถใช้งานบนระบบอะไรบ้าง**
 

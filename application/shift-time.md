@@ -1,10 +1,8 @@
-# วิธีเรียกดูกะทำงาน
+# How to get your Time Shift
 
-## ขั้นตอนการเรียกดูกะทำงาน
-
-* เข้าหน้า "**Chat Bot OneDee**"
-* พิมพ์ข้อความ "**เรียกดูกะ**"  
-* เลือก "**กะทำงานที่ต้องการจะดู**"
+* Go to "**Chat Bot OneDee**"
+* Type a message "**My** **Time shift**"  
+* select "**Time shift you want**"
 
 ![](../.gitbook/assets/iphone-8-copy-2.23.png)
 
