@@ -4,25 +4,24 @@ description: >-
   เบิกค่าใช้จ่ายต่างๆ
 ---
 
-# วิธีการขอแบบฟอร์ม \(Request Form\)
+# How to Request Form
 
-![](../.gitbook/assets/image-26.png)
+{% hint style="warning" %}
+**Admin must be create form before use**
+{% endhint %}
 
-พิมพ์ **"ขอแบบฟอร์ม"** ในช่องแชท ในหน้า Chat เพื่อทำการเรียกดูแบบฟอร์มที่มี
+* Open **OneDee X** App
+* Tap **Option** Menu
+
+
 
 ![](../.gitbook/assets/image-16.png)
 
-หรือกดปุ่ม **"Quick Menu"** ด้านขวาล่างเพื่อเรียกดูเมนูขอแบบฟอร์ม
+* Select **Request Form**
 
 ![](../.gitbook/assets/image-3.png)
 
-กดปุ่ม **"Request Form"** เพื่อทำการเรียกดูแบบฟอร์มต่างๆ ที่ทางแอดมินในบริษัทตั้งไว้ให้
+* Select **Form** you want
 
 ![](../.gitbook/assets/image.png)
-
-เลือกแบบฟอร์มที่ต้องการ เพื่อดำเนินการขอทำรายการต่อไป
-
-{% hint style="info" %}
-แบบฟอร์มที่มี ต้องทำการสร้างและกำหนดโดยแอดมินในบริษัทของท่านก่อน
-{% endhint %}
 

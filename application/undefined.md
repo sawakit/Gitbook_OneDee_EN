@@ -1,10 +1,7 @@
-# วิธีการแก้ไขโปรไฟล์ \(Edit Profile\)
+# How to edit your Profile
 
-![](../.gitbook/assets/image-27.png)
-
-พิมพ์ **"แก้ไขโปรไฟล์"** และกดส่งเพื่อดำเนินการแก้ไขโปรไฟล์ของท่าน
+* Enter **Edit Profile**
+* will redirect to Edit Profile screen
 
 ![](../.gitbook/assets/image-37.png)
-
-ระบบจะทำการเปิดหน้าการแก้ไขโปรไฟล์ของท่าน เพื่อกรอกข้อมูล
 

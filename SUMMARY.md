@@ -51,8 +51,8 @@
 * [How to Break in/out](application/break.md)
 * [How to get your Clock History](application/history.md)
 * [How to get your Time Shift](application/shift-time.md)
-* [วิธีการขอแบบฟอร์ม \(Request Form\)](application/request-form.md)
-* [วิธีการแก้ไขโปรไฟล์ \(Edit Profile\)](application/undefined.md)
+* [How to Request Form](application/request-form.md)
+* [How to edit your Profile](application/undefined.md)
 
 ## FAQ
 

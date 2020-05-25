@@ -9,21 +9,21 @@
 * [แก้ไขโปรไฟล์](https://support.onedee.ai/th/application/undefined)
 * [แบบฟอร์ม](https://support.onedee.ai/th/application/request-form)
 
-## การลงเวลา \(Clock\)
+## How to Clock
 
-### เข้างาน \(Clock in\)
+### Clock in
 
-* ลงเวลาเข้างานไวไฟ \(Clock in Wifi\)
-* ลงเวลาเข้างานบีคอน \(Clock in iBeacon\)
-* ลงเวลาเข้างานจีพีเอส \(Clock in GPS\)
-* ลงเวลาเข้างานคิวอาร์โค้ด \(Clock in QR code\)
+* Clock in Wifi
+* Clock in iBeacon
+* Clock in GPS
+* Clock in QR code
 
-### ออกงาน \(Clock out\)
+### Clock out
 
-* ลงเวลาออกงานไวไฟ \(Clock out Wifi\)
-* ลงเวลาออกงานบีคอน \(Clock out iBeacon\)
-* ลงเวลาออกงานจีพีเอส \(Clock out GPS\)
-* ลงเวลาออกงานคิวอาร์โค้ด \(Clock out QR code\)
+* Clock out Wifi
+* Clock out iBeacon
+* Clock out GPS
+* Clock out QR code
 
 ## เรียกดูประวัติการลงเวลา \(History clock\)
 
