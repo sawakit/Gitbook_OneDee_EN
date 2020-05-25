@@ -25,35 +25,35 @@
 * Clock out GPS
 * Clock out QR code
 
-## เรียกดูประวัติการลงเวลา \(History clock\)
+## How to get your History clock
 
-* ประวัติลงเวลาวันนี้ \(Clock History Today\)
-* ประวัติลงเวลาเมื่อวาน \(Clock History Yesterday\)
-* ประวัติลงเวลาอาทิตย์นี้ \(Clock History This Week\)
-* ประวัติลงเวลาอาทิตย์ที่แล้ว \(Clock History Last Week\)
-* ประวัติลงเวลาเดือนนี้ \(This Month Clock\)
+* Clock History Today
+* Clock History Yesterday
+* Clock History This Week
+* Clock History Last Week
+* This Month Clock
 
-## การเรียกดูกะทำงาน \(Shift\)
+## How to get your Shift
 
-* กะทำงาน \(My shift\)
-* กะทำงานวันนี้ \(My today shift\)
-* กะทำงานพรุ่งนี้ \(My yesterday shift\)
-* กะทำงานอาทิตย์นี้ \(My this week shift\)
-* กะทำงานอาทิตย์หน้า \(My next week shift \)
+* My shift
+* My today shift
+* My yesterday shift
+* My this week shift
+* My next week shift
 
-## การพักเบรก \(Break\)
+## How to Break
 
-### พักเบรก \(Break in\)
+### Break in
 
-* พักเบรกไวไฟ \(Break in Wifi\)
-* พักเบรกบีคอน \(Break in iBeacon\)
-* พักเบรกจีพีเอส \(Break in GPS\)
-* พักเบรกคิวอาร์โค้ด \(Break in QR Code\)
+* Break in Wifi
+* Break in iBeacon
+* Break in GPS
+* Break in QR Code
 
-### ออกเบรก \(Break out\)
+### Break out
 
-* ออกเบรกไวไฟ \(Break out Wifi\)
-* ออกเบรกบีคอน \(Break out iBeacon\)
-* ออกเบรกจีพีเอส \(Break out GPS\)
-* ออกเบรกคิวอาร์โค้ด \(Break out QR Code\)
+* Break out Wifi
+* Break out iBeacon
+* Break out GPS
+* Break out QR Code
 
