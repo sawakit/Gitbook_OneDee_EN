@@ -53,6 +53,7 @@
 * [How to get your Time Shift](application/shift-time.md)
 * [How to Request Form](application/request-form.md)
 * [How to edit your Profile](application/undefined.md)
+* [How to use Calendar function](application/how-to-use-calendar-function.md)
 
 ## FAQ
 
