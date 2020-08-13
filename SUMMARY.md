@@ -54,6 +54,7 @@
 * [How to Request Form](application/request-form.md)
 * [How to edit your Profile](application/undefined.md)
 * [How to use Calendar function](application/how-to-use-calendar-function.md)
+* [Adding details with time clocking](application/adding-details-with-time-clocking.md)
 
 ## FAQ
 
