@@ -1,14 +1,14 @@
 # Any Question
 
-## Where to find Passcode?
+## How to find Passcode?
 
 You can find Passcode on Company menu
 
-## **พนักงานสามารถใช้งานบนระบบอะไรบ้าง**
+## **OneDee Application can support os version**
 
 สามารถใช้งานได้ทั้ง **iOS OS V. 11 ขึ้นไป** และ **Android OS V. 5.0 ขึ้นไป**
 
-## Mac Address ได้จากที่ไหน
+## How to find Mac Address?
 
 สามารถหาได้จาก Router Wi-Fi หรือดาวน์โหลดแอพ เพื่อตรวจสอบ Mac Address ที่ถูกต้อง Android ให้โหลด Wi-Fi Analyzer iOS ให้โหลด Wi-Fi Manager
 
